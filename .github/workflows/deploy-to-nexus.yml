@@ -1,4 +1,4 @@
-name: Deploy to Nexus
+[![Deploy to Nexus](https://github.com/NordicSemiconductor/nRF-Logger-API/actions/workflows/deploy-to-nexus.yml/badge.svg)](https://github.com/NordicSemiconductor/nRF-Logger-API/actions/workflows/deploy-to-nexus.yml)name: Deploy to Nexus
 on:
   workflow_dispatch:
 jobs:
